@@ -2,9 +2,14 @@
 这是一个基于HoshinoV2的用于提醒BCR竞技场排名变动的插件。  
 # API Usage
 
-http://help.tencentbot.top/query?request_id=请求id（由enqueque返回
+http://help.tencentbot.top/query?request_id=3820927751
   
-http://help.tencentbot.top/enqueue?target_viewer_id=玩家id
+http://help.tencentbot.top/enqueue?target_viewer_id=3820927751
+
+http://help.tencentbot.top/query?request_id=2866751483
+
+http://help.tencentbot.top/enqueue?target_viewer_id=2866751483
+
 
 # 更新记录
 ## 2021/2/2
